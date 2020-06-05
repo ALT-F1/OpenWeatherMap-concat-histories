@@ -247,3 +247,5 @@ dmypy.json
 .history
 
 # End of https://www.gitignore.io/api/node,python,jupyternotebooks,visualstudiocode
+src/kaggle/output/kaggle/working/df_provinces_collection.csv
+src/kaggle/output/kaggle/working/df_provinces_collection.pkl
