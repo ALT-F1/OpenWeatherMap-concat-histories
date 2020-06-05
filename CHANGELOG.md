@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.1](https://github.com/ALT-F1/OpenWeatherMap/compare/v1.0.0...v1.0.1) (2020-06-05)
+
+
+### Tests
+
+* add zipped version of df_provinces_collection.pkl and df_provinces_collection.csv ([13ed0cb](https://github.com/ALT-F1/OpenWeatherMap/commit/13ed0cb44aec8b4c81a04bafedebaa2c6d9c05d8))
+
+
+### Chores
+
+* ignore files greater than 100 MB due to gihutb constraint : remove df_provinces_collection.pkl and df_provinces_collection.csv ([67aef5b](https://github.com/ALT-F1/OpenWeatherMap/commit/67aef5ba1e0ded5e52acc644d86c70cda652ad18))
+
 ## 1.0.0 (2020-06-05)
 
 

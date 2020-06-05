@@ -10,7 +10,7 @@
         "covid-19",
         "altf1be"
     ],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "main": "build/html/index.html",
     "scripts": {
         "release": "standard-version",
