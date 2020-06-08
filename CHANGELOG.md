@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/ALT-F1/OpenWeatherMap/compare/v1.1.0...v2.0.0) (2020-06-08)
+
+
+### Features
+
+* build dataframes grouping the weather data by province, date and including the quartiles ([b16deac](https://github.com/ALT-F1/OpenWeatherMap/commit/b16deac5c241d8f1f37e50c1978152fb3d13d574))
+
 ## 1.1.0 (2020-06-08)
 
 
